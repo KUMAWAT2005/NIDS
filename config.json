@@ -1,0 +1,18 @@
+{
+    "interface": "wlan0",
+
+    "port_scan": {
+        "threshold": 10,
+        "window_seconds": 10
+    },
+
+    "icmp_flood": {
+        "threshold": 20,
+        "window_seconds": 5
+    },
+
+    "tcp_connections": {
+        "threshold": 20,
+        "window_seconds": 5
+    }
+}
