@@ -108,7 +108,7 @@ Installation
 
 Clone the project:
 
-git clone < KUMAWAT2005>
+git clone https://github.com/KUMAWAT2005/NIDS
 cd NIDS
 
 Create a virtual environment:
